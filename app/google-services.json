@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665259788362",
+    "project_id": "nick-7cf4d",
+    "storage_bucket": "nick-7cf4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665259788362:android:0cd91bbcb6ba285bdebeb3",
+        "android_client_info": {
+          "package_name": "com.example.leave_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxPekO51nZQ2dcb1Caew0DRLXwafaKOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
